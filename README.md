@@ -1,94 +1,50 @@
-# 🇷🇺 Русская версия
+# 👋 Привет! / Hi there! I'm Igor Sbitnev
 
-# Привет! Я --- Игорь Сбитнев 👋
+## 🇷🇺 Русская версия
 
-Разработчик, увлечённый backend-разработкой и автоматизацией. Люблю
-писать чистый и понятный код, экспериментировать с технологиями и
-создавать полезные инструменты.
+### 👨‍💻 Обо мне
+Я — **Игорь Сбитнев**, начинающий backend-разработчик. Занимаюсь созданием ботов, сервисов и автоматизацией процессов. Люблю изучать новые технологии и писать понятный, поддерживаемый код.
 
-## 🧑‍💻 Стэк технологий
+### 🧑‍💻 Что я умею
+- 🔹 Пишу на **Go** и **Python**
+- 🔹 Backend-разработка, API, сервисы
+- 🔹 Создаю бот-платформы (Telegram, Discord и др.)
+- 🔹 Немного **DevOps**: Docker, CI/CD, деплой
+- 🔹 Работаю с Linux и контейнерами
 
-### Языки
+### ⚙️ Технологии
+**Языки:** Go, Python  
+**Инструменты:** Linux  
+**Базы данных:** SQLite3, Redis  
+**Прочее:** Telegram Bot API
 
-```{=html}
-<p>
-```
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" />`{=html}
-```{=html}
-</p>
-```
-### Инструменты
+### 😄 Забавный факт
+Люблю переустанавливать операционную систему **каждый месяц** — ощущение свежего старта 😄
 
-```{=html}
-<p>
-```
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" />`{=html}
-```{=html}
-</p>
-```
-## 📝 О себе
+---
 
--   🔹 Пишу на **Go** и **Python**
--   🔹 Начинающий backend-разработчик
--   🔹 Создаю **ботов** (Telegram, Discord)
--   🔹 Немного занимаюсь **DevOps**: CI/CD, контейнеризация, деплой
--   🔹 Изучаю архитектуру backend-систем
+## 🇬🇧 English Version
 
-## 😄 Забавный факт
+### 👨‍💻 About Me
+I'm **Igor Sbitnev**, a junior backend developer passionate about building bots, backend services, and automation tools. I enjoy learning new technologies and writing clean, maintainable code.
 
-Люблю переустанавливать ОС **каждый месяц** --- маленький личный ритуал
-перезагрузки 😄
+### 🧑‍💻 What I Do
+- 🔹 Write in **Go** and **Python**
+- 🔹 Backend development, API, services
+- 🔹 Bot development (Telegram, Discord, etc.)
+- 🔹 Some **DevOps**: Docker, CI/CD, deployment
+- 🔹 Experienced with Linux & containers
 
-------------------------------------------------------------------------
+### ⚙️ Tech Stack
+**Languages:** Go, Python  
+**Tools:** Docker, GitHub Actions, Linux  
+**Databases:** PostgreSQL, Redis  
+**Other:** REST API, Telegram Bot API, containerization
 
-# 🇬🇧 English Version
+### 😄 Fun Fact
+I like reinstalling my operating system **every month** — feels like a fresh reset 😄
 
-# Hi there! I'm Igor Sbitnev 👋
+---
 
-A developer passionate about backend engineering, automation, and
-building useful services. I enjoy writing clean code and exploring new
-technologies.
-
-## 🧑‍💻 Tech Stack
-
-### Languages
-
-```{=html}
-<p>
-```
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" />`{=html}
-```{=html}
-</p>
-```
-### Tools
-
-```{=html}
-<p>
-```
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" />`{=html}
-```{=html}
-</p>
-```
-## 📝 About Me
-
--   🔹 Writing code in **Go** and **Python**
--   🔹 Junior **backend developer**
--   🔹 Creator of **bots** (Telegram, Discord)
--   🔹 Some **DevOps** experience --- CI/CD, containerization,
-    deployment
--   🔹 Interested in backend architecture and optimization
-
-## 😄 Fun Fact
-
-I enjoy reinstalling my OS **every month** --- kind of a personal
-life-reset ritual 😄
+## 📫 Contacts
+**Telegram:** https://t.me/Sbitnev_Igor
